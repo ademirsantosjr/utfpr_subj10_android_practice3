@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Unique Option Selector</string>
+    <string name="java">Java</string>
+    <string name="pascal">Pascal</string>
+    <string name="cobol">Cobol</string>
+    <string name="show_selected">Show Selected</string>
+    <string name="selected_language">" foi selecionada"</string>
+    <string name="no_language_was_selected">No language was selected</string>
+    <string name="uncheck_all">Uncheck All</string>
+</resources>
